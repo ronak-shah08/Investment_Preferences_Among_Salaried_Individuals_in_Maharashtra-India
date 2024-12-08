@@ -1,0 +1,2 @@
+# Investment_Preferences_Among_Salaried_Individuals_in_Maharashtra-India
+This repository analyzes the investment habits of salaried individuals in Maharashtra-India, exploring demographic trends, behavioral patterns, and preferences across nine investment avenues. Using survey data &amp; hypothesis testing, it highlights how income, risk tolerance, &amp; economic factors shape decisions, aiding researchers &amp; financial advisors.
